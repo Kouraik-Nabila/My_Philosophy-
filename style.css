@@ -4,11 +4,10 @@
 /* colors : https://colors.dopely.top/color-pedia */
 :root{
     --header-height: 3.5rem;
-    /*--first-hue: 250;*/
+    --first-hue: 250;
     --sat: 0%;
-    --lig:75.6%;
+    --lig:75%;
     --second-hue:0;
-    --first-hue: 0; 
     --first-color: hsl(var(--first-hue), var(--sat), var(--lig)) ;
     --first-color-alt: hsl(var(--first-hue); var(--sat), 71%);
     --title-color: hsl(var(--second-hue), 15%, 95%);
