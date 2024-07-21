@@ -4,18 +4,16 @@
 /* colors : https://colors.dopely.top/color-pedia */
 :root{
     --header-height: 3.5rem;
-    --first-hue: 230;
-    --first-saturation: 0%;
-    --first-lightness: 80%;
-    /*--sat: 66%;
-    --lig:75%;*/
-    --second-hue:0;
+    --first-hue: 250;
+    --sat: 66%;
+    --lig:75%;
+    --second-hue:219;
     --first-color: hsl(var(--first-hue), var(--sat), var(--lig)) ;
     --first-color-alt: hsl(var(--first-hue); var(--sat), 71%);
     --title-color: hsl(var(--second-hue), 15%, 95%);
     --text-color:hsl(var(--second-hue), 8%, 75%); 
     --text-color-light:hsl(var(--second-hue), 4%, 55%);
-    --body-color: hsl(var(--second-hue), 100%, 50%);
+    --body-color: hsl(var(--second-hue), 48%, 8%);
     --container-color: hsl(var(--second-hue), 32%, 12%);
 
     /* fonts */
