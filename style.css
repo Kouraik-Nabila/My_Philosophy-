@@ -245,7 +245,7 @@ img{
 
       .home__handle{
        justify-self: center;
-       width: 190px;
+       width: 200px;
        height: 293px;
        background: linear-gradient(180deg, 
                    hsla(var(--first-hue), var(--sat), var(--lig), 1),
