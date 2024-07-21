@@ -5,8 +5,10 @@
 :root{
     --header-height: 3.5rem;
     --first-hue: 230;
-    --sat: 66%;
-    --lig:75%;
+    --first-saturation: 0%;
+    --first-lightness: 80%;
+    /*--sat: 66%;
+    --lig:75%;*/
     --second-hue:10;
     --first-color: hsl(var(--first-hue), var(--sat), var(--lig)) ;
     --first-color-alt: hsl(var(--first-hue); var(--sat), 71%);
