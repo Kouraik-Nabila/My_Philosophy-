@@ -7,7 +7,7 @@
     --first-hue: 230;
     --sat: 66%;
     --lig:75%;
-    --second-hue:0;
+    --second-hue:10;
     --first-color: hsl(var(--first-hue), var(--sat), var(--lig)) ;
     --first-color-alt: hsl(var(--first-hue); var(--sat), 71%);
     --title-color: hsl(var(--second-hue), 15%, 95%);
