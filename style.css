@@ -4,9 +4,9 @@
 /* colors : https://colors.dopely.top/color-pedia */
 :root{
     --header-height: 3.5rem;
-    --first-hue: 250;
-    --sat: 66%;
-    --lig:75%;
+    --first-hue: 0;
+    --sat: 0%;
+    --lig:75.6%;
     --second-hue:219;
     --first-color: hsl(var(--first-hue), var(--sat), var(--lig)) ;
     --first-color-alt: hsl(var(--first-hue); var(--sat), 71%);
