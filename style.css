@@ -526,7 +526,7 @@ img{
         .services__modal-description{
           font-size: var(--small-font-size);
           margin-bottom: 2rem;
-          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, gray;
+          font-family: 'Franklin Gothic Medium', 'Arial black';
           text-decoration: bold;
           
         }
